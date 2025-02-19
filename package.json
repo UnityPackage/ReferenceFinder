@@ -1,7 +1,7 @@
 {
   "name": "com.teampackages.reference-finder",
   "displayName": "Reference Finder",
-  "description": "Finds all references to the specified asset. v20220831",
+  "description": "Finds all references to the specified asset. ReferenceFinder 是一个 Unity 工具，用于查找指定资源在项目中的所有引用。 v20220831",
   "version": "1.0.0",
   "unity": "2022.3",
   "author": {
