@@ -1,0 +1,33 @@
+{
+  "name": "com.teampackages.reference-finder",
+  "displayName": "Reference Finder",
+  "description": "Finds all references to the specified asset. v20220831",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "author": {
+    "name": "陈皮皮"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UnityPackage/ReferenceFinder.git"
+  },
+  "keywords": [
+    "unity",
+    "runtimes"
+  ],
+  "license": "MIT LICENSE",
+  "bugs": {
+    "url": "https://github.com/UnityPackage/ReferenceFinder/issues"
+  },
+  "homepage": "https://github.com/UnityPackage/ReferenceFinder#README",
+  "samples": [
+    {
+      "displayName": "User Example",
+      "description": "Example code showing use of the Samples .",
+      "path": "Samples~"
+    }
+  ],
+  "type": "module"
+}
